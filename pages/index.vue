@@ -2,7 +2,7 @@
   <div class="container">
     <div class="column">
       <div class="box" style="background-color: $color-primary; color: $color-text-tertiary; border-radius: $border-radius;">
-        <h1 style="font-size: $font-size-h1;">Heading 1 2</h1>
+        <h1 style="font-size: $font-size-h1;">Heading 1</h1>
         <h2 style="font-size: $font-size-h2;">Heading 2</h2>
         <h3 style="font-size: $font-size-h3;">Heading 3</h3>
         <h4 style="font-size: $font-size-h4;">Heading 4</h4>
