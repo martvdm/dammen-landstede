@@ -1,7 +1,7 @@
 {
   "private": true,
   "author": {
-    "name": "Wesley & Mart"
+    "name": "Mart"
   },
   "scripts": {
     "build": "nuxt build",
