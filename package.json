@@ -12,9 +12,13 @@
   },
   "devDependencies": {
     "nuxt": "^3.2.0",
+    "prettier": "2.8.4",
     "sass-loader": "^13.2.0"
   },
   "dependencies": {
+    "@databases/mysql": "^5.2.1",
+    "@databases/sql": "^3.3.0",
+    "@databases/sqlite": "^4.0.2",
     "sass": "^1.58.1",
     "socket.io": "^4.6.1",
     "socket.io-client": "^4.6.1"
